@@ -1,0 +1,5 @@
+此文件系统由 busybox-1.19.2 制作而成,具体制作方法可参考 loongson_1b_doc 里的用户手册
+
+nfsrootfs-shared.tar.gz		//编译busybox时选择为采用共享库
+nfsrootfs-static.tar.gz		//编译busybox时选择为采用静态库		
+
